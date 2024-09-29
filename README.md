@@ -20,13 +20,14 @@ The frontend is built with HTML, CSS, and JavaScript, while the backend is imple
 Here are some screenshots of the application:
 
 - **Payment Gateway Home**  
-<img src="Photos/1.png" alt="Home" style="max-width: 100%; height: auto;"/>
+<img src="photos/1.png" alt="Home" style="max-width: 100%; height: auto;"/>
+
 
 - **Razorpay Dashboard**  
-  <img src="Photos/2.png" alt="Home" style="max-width: 100%; height: auto;"/>
+  <img src="photos/2.png" alt="Home" style="max-width: 100%; height: auto;"/>
 
 - **Payment Successful Razorpay**  
-  <img src="Photos/3.png" alt="Home" style="max-width: 100%; height: auto;"/>  
+  <img src="photos/3.png" alt="Home" style="max-width: 100%; height: auto;"/>  
 
 - **MySQL Database View**  
   ![MySQL Database](photos/5%20mysql%20db.png)
