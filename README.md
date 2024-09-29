@@ -23,7 +23,7 @@ Here are some screenshots of the application:
 <img src="photos/1.png" alt="Home" style="max-width: 100%; height: auto;"/>
 
 
-- **Razorpay Dashboard**  
+- **Razorpay Test Payment Gateway**  
   <img src="photos/2.png" alt="Home" style="max-width: 100%; height: auto;"/>
 
 - **Payment Successful Razorpay**  
@@ -32,8 +32,12 @@ Here are some screenshots of the application:
 - **MySQL Database View**  
   ![MySQL Database](photos/5%20mysql%20db.png)
 
+- **Razorpay Orders Dashboard**  
+  ![SpringBoot Config](photos/4%20razorpay%20dashboard.png)
+
 - **Spring Boot Configuration**  
   ![SpringBoot Config](photos/6%20springboot%20config.png)
+  
 
 ## API Endpoints
 
